@@ -4,7 +4,7 @@
 > 
 > *Trabajo Fin de Grado — Grado en Ingeniería Informática (Tecnologías de la Información)*  
 > **Escuela Superior de Ingeniería Informática de Albacete — Universidad de Castilla-La Mancha (UCLM)**  
-> **Autor:** Ángel Barceló Parada ([@SteAngel007](https://github.com/SteAngel007))  
+> **Autor:** Ángel Barceló Parada ([@SteAngel02](https://github.com/SteAngel02))  
 > **Tutores:** Llanos Vergara Picazo, Gabriel Sebastián Rivera  
 
 ---
