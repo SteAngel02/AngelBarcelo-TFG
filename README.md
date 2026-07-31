@@ -1,6 +1,7 @@
 # ⚛️ Quantum Habits
 
 > **Diseño y desarrollo de una aplicación de gamificación de hábitos con fines educativos: Caso de estudio en computación cuántica.**
+> *APK disponible para descarga y prueba del sistema (TFGRelease.apk)*
 > 
 > *Trabajo Fin de Grado — Grado en Ingeniería Informática (Tecnologías de la Información)*  
 > **Escuela Superior de Ingeniería Informática de Albacete — Universidad de Castilla-La Mancha (UCLM)**  
